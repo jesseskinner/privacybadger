@@ -98,7 +98,7 @@ function showNagMaybe() {
  * Init function. Showing/hiding popup.html elements and setting up event handler
  */
 function init() {
-  showNagMaybe();
+  // showNagMaybe();
 
   $("#activate_site_btn").on("click", activateOnSite);
   $("#deactivate_site_btn").on("click", deactivateOnSite);

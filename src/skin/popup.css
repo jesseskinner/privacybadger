@@ -421,3 +421,11 @@ div.overlay.active {
     margin-right: 0;
   }
 }
+
+#privacyLevel {
+  margin: 3em 1em;
+  font-size: 125%;
+}
+#privacyLevel label {
+  cursor: pointer;
+}
